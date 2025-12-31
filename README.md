@@ -1,7 +1,7 @@
 # Nandini-Das
 This is my first respository 
 <br>
-Author- Nandini Das. 
+Author- Nandini Roy. 
 <br>
 I am recently persuating B.Tech CSE 
 <br> 
